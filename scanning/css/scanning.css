@@ -1,0 +1,36 @@
+body{
+ background:#fafafa;
+ overflow:hidden;
+}
+.content{
+	position:relative;
+	width:1300px;
+	height:900px;
+	margin:0 auto;
+}
+.content img{
+	width:100%;
+}
+.content_t{
+	position:absolute;
+	top:120px;;
+	right:350px;
+}
+.content_t h2{
+	font-size:30px;
+	margin-bottom:10px;
+}
+.content_t a{
+	color:black;
+}
+.content_t a:hover{
+	color:#c12d26;
+}
+.content_t h3{
+	font-size:30px;
+	margin-top:120px;
+}
+.content_b{
+	font-size:30px;
+	font-weight:100;
+}
